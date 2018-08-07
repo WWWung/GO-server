@@ -1,0 +1,10 @@
+{
+  "Host" : "",
+  "Port" : "3007",
+  "DataBase" : {
+    "enable" : true,
+    "driver" : "mysql",
+    "dsn" : "root:wj531096404@tcp(gz-cdb-jm7yuqdy.sql.tencentcdb.com:62691)/blog?charset=utf8&parseTime=True&loc=Asia%2FShanghai",
+    "show_sql" : true
+  }
+}
